@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">Hi, I'm Stacee!</h1>
 
-<h1><a href="https://github.com/staceelvls">IT Support Specialist</a> and <a href="https://www.linkedin.com/in/staceelvls/">Technical Support Agent</a></h1>
+<h1><a href="https://github.com/staceelvls">IT Support Specialist</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
