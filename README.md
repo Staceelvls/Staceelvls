@@ -1,4 +1,4 @@
-<h1><img src="images/githubwelcome.png"</img></h1>
+<h1><img src="githubwelcome.png"</img></h1>
 
 <h1><a href="https://github.com/staceelvls">IT Support Specialist</a></h1>
 
