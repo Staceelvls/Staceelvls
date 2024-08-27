@@ -7,6 +7,7 @@ Welcome to my GitHub! Here, you'll find my homelab projects, which are designed 
 <h2>👨‍💻 My Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Staceelvls/ActiveDirectoryLab)
+- [Nessus Vulnerability Scanner Home Lab](https://github.com/Staceelvls/NessusHomeLab)
 
 <h2>📝 Certifications</h2>
 
