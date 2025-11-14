@@ -2,7 +2,7 @@
 
 <h1><a href="https://github.com/staceelvls">IT Support Specialist</a></h1>
 
-Welcome to my GitHub! Here, you'll find my homelab projects, which are designed to build hands-on skills applicable to IT roles in network and systems administration.  I am Security+ certified and currently pursuing a Bachelor of Science degree to further enhance my skills and knowledge. I'm excited to connect with potential employers who are passionate about fostering growth, supporting continuous learning, and helping team members expand their knowledge within the company.
+Welcome to my GitHub! Here, you'll find my homelab projects, which are designed to build hands-on skills applicable to IT roles in network and systems administration.  I am Security+ certified with a Bachelor of Science degree.  I'm excited to connect with potential employers who are passionate about fostering growth, supporting continuous learning, and helping team members expand their knowledge within the company.
 
 <h2>👨‍💻 My Projects:</h2>
 
