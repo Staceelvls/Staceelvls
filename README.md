@@ -18,6 +18,10 @@ Welcome to my GitHub! Here, you'll find my homelab projects, which are designed 
   <br>
 - [Security+](https://www.credly.com/badges/115f6e18-9358-4b22-b2a0-2439454b80af/public_url)
   <br>
+- [Cloud+](https://www.credly.com/badges/6483b741-a1fb-4e8b-850f-a0e2b4d1cc6e/public_url)
+  <br>
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d9192003-ee7c-494c-8dd7-96294825f20c/public_url)
+  <br>
 - [Google IT Support Professional](https://www.credly.com/badges/b3a2a2dc-2b09-4142-ad1d-f81bd15b31f3/public_url)
 
 
