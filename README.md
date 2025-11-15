@@ -4,11 +4,20 @@
 
 Welcome to my GitHub! Here, you'll find my homelab projects, which are designed to build hands-on skills applicable to IT roles in network and systems administration.  I am Security+ certified with a Bachelor of Science degree.  I'm excited to connect with potential employers who are passionate about fostering growth, supporting continuous learning, and helping team members expand their knowledge within the company.
 
+---
 <h2>👨‍💻 My Projects:</h2>
 
 - [Text-2-Speech Cloud Project](https://github.com/Staceelvls/Text-2-Speech-Project)
+ 
+    *Automates conversion of text files to MP3 audio using AWS Lambda, S3, and Polly.*
+  
 - [Active Directory Home Lab](https://github.com/Staceelvls/ActiveDirectoryLab)
+  
+    *I created an Active Directory domain in VirtualBox, populated it with employee accounts, and made sure user access and logins worked perfectly.*
+ 
 - [Nessus Vulnerability Scanner Home Lab](https://github.com/Staceelvls/NessusHomeLab)
+
+    *I built a home lab to practice vulnerability scanning with Nessus, where I learned how to find and prioritize security flaws.*
 
 <h2>📝 Certifications</h2>
 
