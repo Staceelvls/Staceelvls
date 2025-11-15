@@ -19,6 +19,7 @@ Welcome to my GitHub! Here, you'll find my homelab projects, which are designed 
 
     *I built a home lab to practice vulnerability scanning with Nessus, where I learned how to find and prioritize security flaws.*
 
+---
 <h2>📝 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/53f9b078-7bf1-4ca7-a448-68454a96520c/public_url) 
