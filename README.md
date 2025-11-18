@@ -10,6 +10,10 @@ Welcome to my GitHub! Here, you'll find my homelab projects, which are designed 
 - [Text-2-Speech Cloud Project](https://github.com/Staceelvls/Text-2-Speech-Project)
  
     *Automates conversion of text files to MP3 audio using AWS Lambda, S3, and Polly.*
+
+-  [ChatBot Cloud Project](https://github.com/Staceelvls/Chatbox-Project)
+
+    *An Amazon Lex chatbot configured to accept a user's preferred genre and provide a book recommendation.*  
   
 - [Active Directory Home Lab](https://github.com/Staceelvls/ActiveDirectoryLab)
   
