@@ -7,6 +7,10 @@ Welcome to my GitHub! Here, you'll find my homelab projects, which are designed 
 ---
 <h2>👨‍💻 My Projects:</h2>
 
+- [Principle of Least Privilege Cloud Project](https://github.com/Staceelvls/Least-Privilege-Project)
+ 
+    *Limited cloud user access to only reading files in a single S3 bucket.*
+
 - [Text-2-Speech Cloud Project](https://github.com/Staceelvls/Text-2-Speech-Project)
  
     *Automates conversion of text files to MP3 audio using AWS Lambda, S3, and Polly.*
